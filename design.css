@@ -1,3 +1,8 @@
+body {
+    background-color: rgb(83, 82, 82);
+    color: white;
+}
+
 img {
     width: 100px;
     border-radius: 50px;
@@ -18,11 +23,11 @@ img {
   }
 
   em {
-      color: palevioletred;
+      color: rgb(175, 75, 175);
       font-style: italic;
   }
 
   a {
       font-family: "Rubik", "Monospace";
-      color: paleturquoise;
+      color: palevioletred;
   }

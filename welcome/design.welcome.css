@@ -1,0 +1,24 @@
+/* Main HTML is here */
+body {
+    background-color: rgb(83, 82, 82);
+    color: white;
+}
+
+p {
+    font-family: "Rubik", "Monospace";
+}
+
+ul {
+    font-family: "Rubik", "Monospace"
+}
+
+a {
+    font-family: "Rubik", "Monospace";
+    color: rgb(226, 82, 82);
+}
+
+/* IDs are here */
+#profile_picture-zach {
+    width: 100px;
+    border-radius: 20px;
+}
