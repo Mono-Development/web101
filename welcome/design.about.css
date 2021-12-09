@@ -1,0 +1,17 @@
+#profile_picture-zach {
+    width: 100px;
+    border-radius: 20px;
+}
+
+p {
+    font-family: "Rubik", "Monospace"
+}
+
+ul {
+    font-family: "Rubik", "Monospace"
+}
+
+a {
+    font-family: "Rubik", "Monospace";
+    color: paleturquoise;
+}
